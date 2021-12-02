@@ -19,8 +19,8 @@ locale: "en-US"
 title: "STUDYNOTE"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "빵굽는 박코더"
-description: "An amazing website."
+name: "코드굽는 박코더"
+description: "진정한 개발자되기"
 url: "https://chyeon97.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name: "빵굽는 박코더"
+  name: "코드굽는 박코더"
   avatar: "/assets/images/profile_photo.jpeg"
   bio: "소소하게 끄적끄적💻 "
   location: "South Korea"
