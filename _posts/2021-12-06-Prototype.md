@@ -4,6 +4,7 @@ title: "Prototype"
 categories: Javascript
 tag: [Javascript, Prototype, 프로토타입, 프로토타입 체인]
 toc: true
+toc_sticky: true
 ---
 
 ## 이 글에서 알 수 있는 내용
