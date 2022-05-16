@@ -19,7 +19,7 @@ locale: "ko-KR"
 title: "STUDYNOTE"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "코드굽는 박코더"
+name: "주니어 개발자"
 description: "진정한 개발자되기"
 url: "https://chyeon97.github.io"
 baseurl: #
